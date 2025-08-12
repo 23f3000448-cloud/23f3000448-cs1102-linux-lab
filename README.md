@@ -1,4 +1,4 @@
-echo "# My Personal Bio
+# My Personal Bio
 
 
 
@@ -10,7 +10,7 @@ This is my work for the Linux Lab
 
 ---
 
-Roll Number: 23f3000448" > README.md
+Roll Number: 23f3000448" 
 
 
 
